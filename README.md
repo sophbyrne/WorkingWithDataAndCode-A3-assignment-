@@ -1,1 +1,9 @@
 # WorkingWithDataAndCode-A3-assignment-
+
+
+https://scratch.mit.edu/projects/733755669/editor/ 
+
+Title: Love for Earth 
+Introduction: Love for Earth is a creative and interactive digutal narrative which connects to audineces to create awarness and educate children ages 9-15 on indivudal environmental protection stratergies. 
+Technologies: Scratch 3.0
+Launch: Use link provided or download scratch software onto device and load file provided on Github to the software to access code. 
