@@ -1,7 +1,7 @@
 # WorkingWithDataAndCode-A3-assignment-
 
 
-https://scratch.mit.edu/projects/733755669/editor/ 
+https://scratch.mit.edu/projects/733755669/ 
 
 Title: Love for Earth 
 Introduction: Love for Earth is a creative and interactive digutal narrative which connects to audineces to create awarness and educate children ages 9-15 on indivudal environmental protection stratergies. 
